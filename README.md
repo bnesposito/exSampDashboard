@@ -14,7 +14,3 @@ model specficiation.
   - **Rtemp**: main functions of the used in the dashboard. All functions in this folder are imported to the app.
   - **data**: example datsets for the user test.
 
-### Application flowchart
-
-![Main
-flowchart](https://github.com/Exploration-Sampling/exSamp/blob/develop/docs/main_flowchart.svg?raw=true)
