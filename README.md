@@ -13,4 +13,3 @@ model specficiation.
   - **app.R**: main script containing the dashboard's UI and Server functions.
   - **Rtemp**: main functions of the used in the dashboard. All functions in this folder are imported to the app.
   - **data**: example datsets for the user test.
-
